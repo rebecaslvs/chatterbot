@@ -1,0 +1,40 @@
+{
+    "conversas":[
+        {
+            "mensagem": ["Olá", "Oi", "Opa", "E aí"],
+            "resposta": "Olá! Como posso te ajudar?"
+        },
+        {
+            "mensagem": ["Bom dia"],
+            "resposta": "Bom dia! Como posso te ajudar?"
+        },
+        {
+            "mensagem": ["Boa tarde"],
+            "resposta": "Boa tarde! Como posso te ajudar?"
+        },
+        {
+            "mensagem": ["Boa noite"],
+            "resposta": "Boa noite! Como posso te ajudar?"
+        },
+        {
+            "mensagem": ["O que foi o renascimento", "O que é o renascimento"],
+            "resposta": "O Renascimento foi um movimento cultural, economico e politico que surgiu na Italia do seculo XIV, se estendendo para toda a Europa nos seculos XV e XVI. Ele foi responsavel por grandes mudanças na Europa, principalmente no campo das artes, mas tambem nas areas cientifica e religiosa."
+        },
+        {
+            "mensagem": ["Quais as caracteristicas do renascimento", "Caracterize o renascimento"],
+            "resposta": "As caracteristicas do renascimento sao o humanismo, racionalismo, individualismo, antropocentrismo, cientificismo, universalismo e a arte da Antiguidade Classica."
+        },
+        {
+            "mensagem": ["Qual é o berço do renascimento", "Onde surgiu o renascimento"],
+            "resposta": "O renascimento surgiu na Italia, mais especificamente em Florenaa, no seculo XIV."
+        },
+        {
+            "mensagem": ["O que foi o antropocentrismo", "Fale sobre o antropocentrismo"],
+            "resposta": "O antropocentrismo foi uma das principais caracteristicas do renascimento. Ele consiste na valorizacao do ser humano, ou seja, o homem e o centro do universo. O antropocentrismo foi uma reação ao teocentrismo, que era a visao de mundo da Idade Media, onde Deus era o centro de tudo."
+        },
+        {
+            "mensagem": ["Como era a escultura durante o renascimento", "Fale sobre a escultura renascentista"],
+            "resposta": "As principais caracteristicas da escultura renascentista eram o realismo, o naturalismo, a proporcao e o estudo da anatomia humana. O corpo humano era levemente torneado, tinha proporcoes impecaveis e demonstrava seus sentimentos. Alem disso, devido ao naturalismo, o nu foi muito utilizado."
+        }
+    ]
+}
