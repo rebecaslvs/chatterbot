@@ -18,7 +18,7 @@ def treinar_robo():
     treinador.train(lista_completa)
     return lista_completa
 
-def input_usuario(dialogo):
+def input_usuario(dialogo = None):
     if dialogo: return dialogo
     else: 
         try:
